@@ -18,5 +18,4 @@ Lightweight, performance-focused framework with reactive state</p>
 
 <br>
 
-<p align="center"><strong>Discord Systems</strong><br>
-Automation, moderation, and investigation tools with database support</p>
+
