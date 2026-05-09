@@ -1,37 +1,42 @@
-# ⚡ Hey, I'm dftgetye
+# dftgetye
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FF0000&center=true&vCenter=true&width=600&lines=Building+cool+things;JavaScript+Framework+Dev;Discord+Bot+Creator;Always+learning+⚡" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=FFFFFF&center=true&vCenter=true&width=500&lines=JavaScript+Framework+Development;Backend+Systems;Discord+Automation" />
 </p>
 
 ---
 
-## 🚀 About Me
+## About
 
-* 🧠 Building a custom **JavaScript framework**
-* ⚡ Into performance & reactive systems
-* 🤖 Creating advanced Discord bots
-* 🌐 Backend + full-stack projects
+Focused on building performant, scalable systems with an emphasis on clean architecture and efficient design.
 
----
-
-## 🔥 Featured Projects
-
-### 🧩 JS Framework (WIP)
-
-⚡ Lightweight • Reactive • No Virtual DOM
-
-### 🤖 Discord Bots
-
-🔍 Logging • Alt Detection • Automation
-
-### 🌐 SACRP Backend
-
-🔐 Auth • Database • Real-time updates
+Currently developing a lightweight JavaScript framework centered around reactive state and minimal overhead.
 
 ---
 
-## 🛠 Tech Stack
+## Projects
+
+### JavaScript Framework (WIP)
+
+A modern framework designed for performance and simplicity.
+
+* Reactive signal-based state management
+* No virtual DOM overhead
+* Direct and efficient DOM updates
+
+---
+
+### Discord Systems
+
+Advanced automation and moderation tools.
+
+* Alt account detection and investigation
+* Structured logging and data tracking
+* SQLite-backed persistence layer
+
+---
+
+## Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,nodejs,sqlite,html,css" />
@@ -39,43 +44,15 @@
 
 ---
 
-## 📊 GitHub Stats
+## Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dftgetye&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=dftgetye&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dftgetye&show_icons=true&theme=default&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=dftgetye&theme=default&hide_border=true" height="150"/>
 </p>
 
 ---
 
-## 🧬 Activity Graph
+## Contact
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dftgetye&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dftgetye&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 📫 Contact
-
-* Discord: yourusername#0000
-
----
-
-## ⚡ Fun Fact
-
-I build things that are fast, clean, and actually useful.
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=100&section=footer"/>
-</p>
+Discord: yourusername#0000
